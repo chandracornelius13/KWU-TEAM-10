@@ -1,3 +1,5 @@
+<div align="center">
+
 # Strategi Pemasaran UMKM untuk Meningkatkan Penjualan 
 ### “Untuk memenuhi tugas pada mata kuliah Kewirausahaan”
 
