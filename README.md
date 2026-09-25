@@ -1,10 +1,4 @@
-# KWU-TEAM-10
+## Gambaran Solusi Projek
+Platform web e-kemitraan reseller bibit pepaya yang dapat menghubungkan pemilik usaha dengan mitra penjual. Platform ini membantu pemilik usaha memperluas pemasaran tanpa harus mencari dan melayani seluruh pelanggan sendiri. Ketika penjualan menurun pada akhir pekan, stok bibit yang tersedia dapat ditawarkan kepada para reseller untuk dipromosikan melalui media sosial mereka. Dengan bertambahnya saluran penjualan, pemilik usaha dapat meningkatkan peluang penjualan, mempercepat perputaran stok, dan mengurangi penumpukan bibit yang menyebabkan biaya perawatan seperti penyiraman, pemupukan, dan pergantian polybag terus bertambah. Mitra dapat melihat katalog produk dan memasukkan pesanan melalui sistem, sementara proses penyiapan dan pengiriman tetap ditangani oleh pemilik usaha. Setiap transaksi tercatat dalam sistem dan reseller memperoleh komisi dari penjualan yang berhasil.
 
-## Anggota Kelompok
-| **Nama** | **NPM** |
-| :--- | :--- |
-| Kevin Samuel Fernatyanan | 4525210033 |
-| Putri Permatasari Wijaya | 4523210086 |
-| Alfin Romi Setiawan | 4524210009 |
-| Chandra Cornelius L Tobing | 4524210022 |
-| Abdurrahman | 4524210003 |
+---
